@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("fuck you");
+    printf("f213 you");
     return 0;
 }
